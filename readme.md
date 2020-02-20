@@ -1,6 +1,6 @@
 # final project
 #### This is my first website, 5-02-2020
-#### By **Gladwell Taye**
+#### By **Lilian Njambi*
 ## Description
 my portfolio
 
@@ -8,8 +8,6 @@ my portfolio
 HTML css
 ## Support and contact details
 For more information visit Moringa School
-## link
-* https://gladwelltaye.github.io/portfolio/
 ### License
 MIT
 Copyright (c) {2020}
