@@ -1,9 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-background-color: black;
+background-image: url('images/back.jpg');
+background-repeat: no-repeat;
+background-positon: center;
 background-size: cover;
-font-size: 110%;
 }
 .contact-form {
   width: 85%;
