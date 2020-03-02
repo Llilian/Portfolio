@@ -1,10 +1,15 @@
 body {
   background-color: blue;
   font-size: 110%;
-  background-image: url("images/back.jpg");
+  font-style: oblique;
+  font-weight: bold;
+  font-family: sans-serif;
+  background-image: url("../images/butter.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  background-color: #ffffff55;
+  background-blend-mode: screen;
 }
 .contact-form {
   width: 85%;
