@@ -4,7 +4,10 @@ h1, h2{
   body {
     background-color: pink;
     font-size: 110%;
-    background-image: url("images/back.jpg");
+    font-style: oblique;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-image: url("../images/back.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
